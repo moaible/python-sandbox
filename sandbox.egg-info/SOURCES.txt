@@ -1,0 +1,10 @@
+setup.py
+sandbox/__init__.py
+sandbox/main.py
+sandbox.egg-info/PKG-INFO
+sandbox.egg-info/SOURCES.txt
+sandbox.egg-info/dependency_links.txt
+sandbox.egg-info/entry_points.txt
+sandbox.egg-info/top_level.txt
+sandbox/test/__init__.py
+sandbox/test/test_main.py
